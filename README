@@ -1,0 +1,13 @@
+INSTALLATION:
+
+    cd /usr/lib/perl5/<your-perl-version-directory>/
+    gunzip <VERSION_RCS-*.tar>
+    tar -xf <VERSION_RCS-*.tar>
+
+SYNOPSIS and USAGE:
+
+    see the module content commnets
+
+AUTHOR:
+
+    Daniel.Peder@infoset.com
